@@ -1,0 +1,15 @@
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_CAR.exe.config
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_CAR.exe.manifest
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_CAR.application
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_CAR.exe
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_CAR.pdb
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\Newtonsoft.Json.dll
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\bin\Debug\Newtonsoft.Json.xml
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.csproj.ResolveComReference.cache
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.csproj.CoreCompileInputs.cache
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.exe.manifest
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.application
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.csproj.CopyComplete
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.exe
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.pdb
+E:\VS.Project\Migrate-MBK\StartCAR\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_CAR.csprojAssemblyReference.cache

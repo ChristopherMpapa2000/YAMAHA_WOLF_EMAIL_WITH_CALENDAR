@@ -1,0 +1,38 @@
+[10:35:07:34] - ====== Start Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:35:07
+[10:35:07:53] - Run batch as :TECHCONS\christopher
+[10:35:09:39] - Get Email Template
+[10:35:10:16] - Get Template Data
+[10:35:11:84] - Get Transaction Data
+[10:35:24:98] - Begin Transaction Data : 1
+[10:35:41:27] - Begin Transaction : PK - 8237
+[10:35:57:65] - ====== Start Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:35:57
+[10:35:57:82] - Run batch as :TECHCONS\christopher
+[10:35:59:16] - Get Email Template
+[10:36:00:01] - Get Template Data
+[10:36:00:02] - Get Transaction Data
+[10:36:00:06] - Begin Transaction Data : 1
+[10:36:00:16] - Begin Transaction : PK - 8237
+[10:36:00:17] - :====== Completed Process WOLF_EMAIL_WITH_CALENDAR ====== 
+[10:36:00:17] - exit 0
+[10:36:00:17] - ====== End Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:36:00
+[10:36:11:82] - ====== Start Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:36:11
+[10:36:11:99] - Run batch as :TECHCONS\christopher
+[10:36:13:43] - Get Email Template
+[10:36:14:11] - Get Template Data
+[10:36:15:49] - Get Transaction Data
+[10:36:18:13] - Begin Transaction Data : 1
+[10:36:26:12] - Begin Transaction : PK - 8237
+[10:40:20:15] - ====== Start Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:40:20
+[10:40:20:17] - Run batch as :TECHCONS\christopher
+[10:40:21:11] - Get Email Template
+[10:40:21:15] - Get Template Data
+[10:40:21:17] - Get Transaction Data
+[10:40:21:20] - Begin Transaction Data : 1
+[10:44:24:56] - ====== Start Process WOLF_EMAIL_WITH_CALENDAR ====== : 21/08/2024 10:44:24
+[10:44:24:58] - Run batch as :TECHCONS\christopher
+[10:44:25:46] - Get Email Template
+[10:44:25:51] - Get Template Data
+[10:44:25:54] - Get Transaction Data
+[10:44:25:58] - Begin Transaction Data : 1
+[10:45:48:22] - Begin Transaction : PK - 8237
+[10:48:27:13] - sAuditorLead :Mrs. Chanyapak  Puthachalee

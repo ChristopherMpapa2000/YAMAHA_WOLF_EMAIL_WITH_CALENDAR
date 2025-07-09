@@ -1,0 +1,88 @@
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.config
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.dll
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.dll
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.dll
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.xml
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.xml
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.pdb
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.xml
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.ResolveComReference.cache
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CoreCompileInputs.cache
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CopyComplete
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+D:\Drive E\Techconsbiz\MBK Group\Source\WOLF_EMAIL_WITH_CALENDAR\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csprojAssemblyReference.cache
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.AssemblyReference.cache
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.ResolveComReference.cache
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CoreCompileInputs.cache
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.config
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.dll
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.dll
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.dll
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.xml
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.xml
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.pdb
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.xml
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+F:\VS.Project\Yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CopyComplete
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.config
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.dll
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.dll
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.xml
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.pdb
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.xml
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.AssemblyReference.cache
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.ResolveComReference.cache
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CoreCompileInputs.cache
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CopyComplete
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+C:\Users\christopher\Downloads\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.config
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.dll
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.dll
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Ical.Net.xml
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.pdb
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\NodaTime.xml
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.AssemblyReference.cache
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.ResolveComReference.cache
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CoreCompileInputs.cache
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe.manifest
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.application
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.csproj.CopyComplete
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.exe
+C:\job_yamaha\WOLF_EMAIL_WITH_CALENDAR\obj\Debug\WOLF_EMAIL_WITH_CALENDAR.pdb

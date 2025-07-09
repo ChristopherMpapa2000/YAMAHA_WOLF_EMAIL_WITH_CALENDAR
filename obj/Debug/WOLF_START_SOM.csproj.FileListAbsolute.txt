@@ -1,0 +1,15 @@
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\Newtonsoft.Json.dll
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\Newtonsoft.Json.xml
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.csprojAssemblyReference.cache
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.csproj.ResolveComReference.cache
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.csproj.CoreCompileInputs.cache
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.csproj.CopyComplete
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_SOM.exe.config
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_SOM.exe.manifest
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_SOM.application
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_SOM.exe
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\bin\Debug\WOLF_START_SOM.pdb
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.exe.manifest
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.application
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.exe
+E:\VS.Project\Migrate-MBK\StartSOM\WOLF_START_SUB_PROCESS\obj\Debug\WOLF_START_SOM.pdb
